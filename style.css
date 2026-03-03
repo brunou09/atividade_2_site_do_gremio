@@ -62,5 +62,14 @@ footer {
     color: rgb(7, 49, 98);
     padding: 12px;
     font-weight: bold;
-    
+    text-align: center;
+    border-bottom: 4px solid rgb(7, 49, 98);
+}
+
+.posicao{
+    margin: 40px;
+    padding: 20px;
+    border-radius: 40px;
+    background-color: rgb(72, 155, 243);
+    color: white;
 }
