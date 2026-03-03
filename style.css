@@ -54,3 +54,13 @@ footer {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.barra-stick{
+    position: sticky;
+    top: 0px;
+    background-color: rgb(255, 221, 0);
+    color: rgb(7, 49, 98);
+    padding: 12px;
+    font-weight: bold;
+    
+}
