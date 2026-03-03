@@ -82,3 +82,9 @@ footer {
     background-color: rgb(72, 155, 243);
     color: white
 }
+
+.pos-static{
+    position: static;
+    top: 40px;
+    left: 40px;
+}
